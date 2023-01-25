@@ -20,7 +20,7 @@ const sections = [
     }, {
     title: `✃ BUY`,
 	rows: [
-	    {title: "Amelia Botz", rowId: '.owner', description: 'Pembuat Bot' },
+	    {title: "Ditya Botz", rowId: '.owner', description: 'Pembuat Bot' },
 	    ]
         },
 ]
